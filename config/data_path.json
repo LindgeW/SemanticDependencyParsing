@@ -1,0 +1,17 @@
+{
+  "news": {
+    "train": "./data/news/news.train.conll",
+    "dev": "./data/news/news.valid.conll",
+    "test": "./data/news/news.test.conll"
+  },
+  "text": {
+    "train": "./data/text/text.train.conll",
+    "dev": "./data/text/text.valid.conll",
+    "test": "./data/text/text.test.conll"
+  },
+  "pretrained": {
+    "word_embedding": "./embeddings/giga.100.txt",
+    "bert_model": "./bert/en_bert",
+    "bert_vocab": "./bert/en_bert/vocab.txt"
+  }
+}
