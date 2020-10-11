@@ -1,10 +1,10 @@
 # Graph-based Semantic Dependency Parsing  
 
-> Illustration
+This demo extends the syntactic biaffine parser for any graph-structured semantic dependency scheme, including directed cyclic or acyclic graphs.
 
+> Illustration  
 ![sdp_demo](imgs/demo.png)  
+In semantic dependency graph, each word is allowed for multiple head nodes.
 
-
-> Dataset: 
-
+> Dataset  
 [SemEval-2016 Task9](https://github.com/HIT-SCIR/SemEval-2016)
