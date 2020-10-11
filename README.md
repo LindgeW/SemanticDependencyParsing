@@ -11,7 +11,6 @@ In semantic dependency graph, each word is allowed for multiple head nodes. As i
 | ---- |  ---- | ---- |
 | NEWS | ---- | ---- |
 | TEXT | ---- | ---- |
-| ---- |  ---- | ---- |
 
 
 ### Dataset  
