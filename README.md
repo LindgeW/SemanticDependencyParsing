@@ -7,13 +7,10 @@ In semantic dependency graph, each word is allowed for multiple head nodes. As i
 ![sdp_demo](imgs/demo.png)  
 
 ### Performance
-| ---- |  ---- | ---- |
 | Corpus | UF | LF |
-| ---- |  ---- | ---- |
 | NEWS | ---- | ---- |
-| ---- |  ---- | ---- |
 | TEXT | ---- | ---- |
-| ---- |  ---- | ---- |
+
 
 ### Dataset  
 [SemEval-2016 Task9](https://github.com/HIT-SCIR/SemEval-2016)
