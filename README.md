@@ -9,8 +9,8 @@ In semantic dependency graph, each word is allowed for multiple head nodes. As i
 ### Performance
 | Corpus | UF | LF |
 | ---- |  ---- | ---- |
-| NEWS | ---- | ---- |
-| TEXT | ---- | ---- |
+| NEWS | 82.47 | 66.64 |
+| TEXT | 86.99 | 75.86 |
 
 
 ### Dataset  
