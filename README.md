@@ -3,7 +3,7 @@
 This demo extends the syntactic biaffine parser for any graph-structured semantic dependency scheme, including directed cyclic or acyclic graphs.
 In semantic dependency graph, each word is allowed for multiple head nodes. As illustrated in the following figure, “国内” is the argument of “专家” and at the same time it is an argument of “学者” .
 
-### Illustration  
+### Example  
 ![sdp_demo](imgs/demo.png)  
 
 ### Dataset  
